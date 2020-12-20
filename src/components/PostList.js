@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+// eslint-disable-next-line no-unused-vars
 import { fetchPosts, fetchPostsAndUsers } from "../actions";
 import UserHeader from "./UserHeader";
 
